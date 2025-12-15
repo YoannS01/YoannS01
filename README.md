@@ -9,7 +9,7 @@ J’aime construire des projets utiles, innovants et design !
 
 N'hésite pas à jeter un oeil sur mon Linkedin  !
 
-<p align="center">
+<p align="center">N'hésite pas à jeter un oeil sur mon Linkedin :
   <a href="https://www.linkedin.com/in/yoann-saget/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" />
   </a>
@@ -60,19 +60,19 @@ N'hésite pas à jeter un oeil sur mon Linkedin  !
     alt="YoannS01's GitHub Stats"
   />
 
-  <!-- GitHub Streak Stats -->
-  <img
-    width="390"
-    src="https://streak-stats.demolab.com?user=YoannS01&theme=transparent&border_radius=10"
-    alt="YoannS01's GitHub Streak Stats"
-  />
-
   <!-- Top Languages -->
   <img
     width="325"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=YoannS01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true"
     alt="YoannS01's Most Used Languages"
   />
+</div>
+
+---
+
+## 🐍 Contributions
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YoannS01/YoannS01/main/snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 
