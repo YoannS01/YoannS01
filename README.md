@@ -70,12 +70,3 @@ N'hésite pas à jeter un oeil sur mon Linkedin  !
 
 ---
 
-## 🐍 Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YoannS01/YoannS01/main/snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
-
-
-
-
