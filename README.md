@@ -1,6 +1,6 @@
-# 👋 Hello !
+# 👋 Hello 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=24&duration=4980&pause=1000&color=010676&center=true&width=435&lines=Bonjour%2C+moi+c'est+Yoann+%3A-))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=24&duration=4980&pause=1000&color=010676&center=true&width=435&lines=Bonjour%2C+moi+c'est+Yoann+!)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700" />
 
@@ -11,10 +11,9 @@ N'hésite pas à jeter un oeil sur mon Linkedin  !
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoann-saget/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" />
   </a>
 </p>
-
 
 ---
 
@@ -53,17 +52,30 @@ N'hésite pas à jeter un oeil sur mon Linkedin  !
 
 ## ⚡️ Quelques Stats
 
-<br>
+<div align="center">
+  <!-- GitHub Stats -->
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=YoannS01&theme=transparent&show_icons=true&rank_icon=github"
+    alt="YoannS01's GitHub Stats"
+  />
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YoannS01&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="YoannS01's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YoannS01&theme=transparent&count_private=true&border_radius=10&locale=en" alt="YoannS01's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=YoannS01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="YoannS01's Most Used Languages" />
+  <!-- GitHub Streak Stats -->
+  <img
+    width="390"
+    src="https://streak-stats.demolab.com?user=YoannS01&theme=transparent&border_radius=10"
+    alt="YoannS01's GitHub Streak Stats"
+  />
+
+  <!-- Top Languages -->
+  <img
+    width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=YoannS01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true"
+    alt="YoannS01's Most Used Languages"
+  />
 </div>
 
-<hr>
 
----
 
 
 
