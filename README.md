@@ -29,18 +29,22 @@ J’aime construire des projets utiles, innovants et design !
 
 ---
 
-## 🧩 Ce que je fais le plus souvent
+## ⚡️ Quelques Stats
 
-```txt
-⚛️ React        ███████████████░░░░  80%
-▲ Next.js       ██████████████░░░░░  75%
-🐘 PHP          █████░░░░░░░░░░░░░░  30%
-🎨 UI / UX      ████████████░░░░░░░  65%
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YoannS01&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="YoannS01's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YoannS01&theme=transparent&count_private=true&border_radius=10&locale=en" alt="YoannS01's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=YoannS01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="YoannS01's Most Used Languages" />
+</div>
+
+<hr>
 
 ---
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/YoannS01/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{YoannS01}/count.svg" alt="Visitor's Count" />
 </div>
 
