@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=24&duration=4980&pause=1000&color=010676&center=true&width=435&lines=Bonjour%2C+moi+c'est+Yoann+%3A-))](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700" />
 
 Développeur web passionné par le **front moderne**, les **interfaces fluides** et le **code bien structuré**.  
 J’aime construire des projets utiles, innovants et design !
@@ -65,21 +65,5 @@ N'hésite pas à jeter un oeil sur mon Linkedin  !
 
 ---
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/YoannS01/count.svg" alt="Visitor Count" />
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoannS01/YoannS01/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoannS01/YoannS01/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YoannS01/YoannS01/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 
