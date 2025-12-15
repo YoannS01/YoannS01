@@ -1,9 +1,20 @@
-# 👋 Hey, moi c’est Yoann !
+# 👋 Hello !
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVtZDFkZW9yN3Z3YmxpNnZ2bDZ1bW5jZ2ZndnR0bGV1bXk4bXdrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=24&duration=4980&pause=1000&color=010676&center=true&width=435&lines=Bonjour%2C+moi+c'est+Yoann+%3A-))](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900" />
 
 Développeur web passionné par le **front moderne**, les **interfaces fluides** et le **code bien structuré**.  
 J’aime construire des projets utiles, innovants et design !
+
+N'hésite pas à jeter un oeil sur mon Linkedin  !
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yoann-saget/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="32"/>
+  </a>
+</p>
+
 
 ---
 
@@ -19,11 +30,22 @@ J’aime construire des projets utiles, innovants et design !
 ## 🛠️ Stack & compétences
 
 <p align="left">
+  <!-- Bases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+
+  <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40" />
+
+  <!-- Back -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+
+  <!-- CMS & tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
 </p>
 
