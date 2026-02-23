@@ -1,11 +1,10 @@
 # 👋 Hello 👋
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
 
 Développeur web passionné par le **front moderne**, les **interfaces fluides** et le **code bien structuré**.  
 J’aime construire des projets utiles, innovants et design !
 
-N'hésite pas à jeter un oeil sur mon Linkedin  !
 
 <p align="center">N'hésite pas à jeter un oeil sur mon Linkedin :
   <a href="https://www.linkedin.com/in/yoann-saget/" target="_blank">
