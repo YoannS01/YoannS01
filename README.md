@@ -2,8 +2,13 @@
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
 
-Développeur web passionné par le **front moderne**, les **interfaces fluides** et le **code bien structuré**.  
-J’aime construire des projets utiles, innovants et design !
+Développeur web orienté front-end, passionné par la création d’interfaces modernes, fluides et bien structurées.
+
+Je suis tourné **React**, **Next.js** et un peu **PHP**, en travaillant sur des problématiques concrètes comme l’authentification, l’intégration d’API et l’architecture des applications (routing, gestion d’état, organisation des composants).
+
+J’accorde une attention à la qualité du code (maintenabilité, scalabilité) ainsi qu’à l’expérience utilisateur, afin de créer des produits à la fois performants et agréables à utiliser.
+
+Toujours en progression, je cherche à approfondir mes compétences sur les architectures modernes et les bonnes pratiques du développement web.
 
 
 <p align="center">N'hésite pas à jeter un oeil sur mon Linkedin :
@@ -16,10 +21,12 @@ J’aime construire des projets utiles, innovants et design !
 
 ## 🚀 À propos de moi
 
-- 💻 Développeur Front End
-- ⚛️ Fan de **React** & **Next.js**
-- 🐘 À l’aise avec **PHP**
-- 📚 Curieux, toujours en veille tech
+- 💻 Développeur Front-End spécialisé dans la création d’interfaces modernes, performantes et responsives
+- ⚛️ Passionné par **React** & **Next.js**, avec une approche orientée composants, performance et maintenabilité
+- 🔐 Expérience sur des problématiques concrètes : **authentification**, intégration d’**API** et architecture d’applications
+- 🐘 Des bases en **PHP**, notamment pour comprendre et interfacer le back-end
+- 🎯 Sensible à l’UX/UI : **j’aime créer des interfaces fluides, intuitives et soignées**
+- 📚 Curieux et en veille constante sur les nouvelles pratiques et technologies du web
 
 ---
 
